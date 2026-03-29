@@ -93,6 +93,7 @@ Gestão e Qualificação de Projetos: Há um interesse expressivo e uma presenç
 Marketing e Assistentes Virtuais: No contexto da IA, a tecnologia começou a se expandir em profissões que as mulheres já dominavam, como o marketing e o atendimento via chatbots/assistentes virtuais (como Alexa e Siri), onde o conhecimento prévio das profissionais nessas áreas agrega valor ao desenvolvimento da tecnologia
 .
 Em contrapartida, as fontes indicam que a participação feminina ainda é proporcionalmente pequena em áreas extremamente técnicas, como desenvolvimento de software puro, infraestrutura (DevOps) e arquitetura de nuvem (cloud), embora existam esforços e programas específicos para mudar essa realidade.
+
 ---
 
 ### 🔹 Prompt 3:
